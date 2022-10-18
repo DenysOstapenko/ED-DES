@@ -27,14 +27,12 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-
-/* Firefox */
 input[type=number] {
   -moz-appearance: textfield;
 }
   html{
     background: #000000;
-    
+   
   }
   #loader{
       display: flex;
@@ -1038,6 +1036,8 @@ padding-bottom: 40px;
     width: 100%;
     background: #101010;
     position: relative; 
+
+     
 }
 .contact-header{
     height: auto;
